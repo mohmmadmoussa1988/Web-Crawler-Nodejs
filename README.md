@@ -1,6 +1,4 @@
 # sixtTest-backend
-# sixtTest-backend
-
 Web Developer Test Assignment
 
 Task - Web crawler
